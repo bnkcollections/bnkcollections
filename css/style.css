@@ -373,6 +373,12 @@ footer a:hover{
   animation: fadeIn 1s;
 }
 
+footer #donate{
+  width:150px;
+  height: 80px;
+  border-radius: 10px;
+}
+
 
 @keyframes fadeIn {
   from{
