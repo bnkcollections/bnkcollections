@@ -46,3 +46,7 @@ function myFunction() {
     }
 }
 
+
+function donate(){
+  window.location.href="https://bit.ly/3gZGi3M";
+}
