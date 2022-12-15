@@ -48,5 +48,5 @@ function myFunction() {
 
 
 function donate(){
-  window.location.href="https://bit.ly/3gZGi3M";
+  window.location.href="http://bit.ly/3FUjQrL";
 }
