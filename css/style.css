@@ -219,6 +219,17 @@ header #naviBox {
   color: #FF3F33;
 }
 
+.h1subscribe {
+  font-size: large;
+  background-color: #FF3F33;
+  color:#fcfcfc;
+}
+
+h2 .h1subscribe:hover{  
+  background-color: #00ff11;
+  color: #ff1100;
+}
+
 .products img{
 
 }
